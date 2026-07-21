@@ -2,20 +2,19 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&width=435&lines=Flutter+Developer;Diploma+in+CST+Student;Tech+Enthusiast" alt="Typing SVG" />
 </p>
-Fusing academic learning with practical expertise, I am a **Flutter Developer** in my final semester of **Computer Science**. I specialize in building sleek, modern, and high-performance mobile solutions with absolute dedication to clean code."
+Fusing academic learning with practical expertise, I am a ** Jr. Flutter Developer** in my final semester of **Computer Science**. I specialize in building sleek, modern, and high-performance mobile solutions with absolute dedication to clean code."
 
 🚀 **[View My Live Portfolio](https://khannipu-bd.github.io/portfolio/)**
 
 ### 🛠️ Technical Skills
 - **Languages:** Dart, Java (Basic)
-- **Frameworks:** Flutter (Mobile & Web)
+- **Frameworks:** Flutter 
 - **State Management:** Reverpod, setState
-- **Backend & Database:** Firebase Integration, REST APIs, JSON Parsing.
+- **Backend & Database:** Firebase Integration, Firestore, REST APIs, JSON Parsing.
 - **Tools & Workflow:** Android Studio, Git & GitHub, VS Code
 
 
 ### 📁 Featured Projects
-
 🏋️‍♂️** My Gym – Premium Gym Management System**
 -A comprehensive multi-role solution for gym owners and members featuring a premium dark UI and all-in-one management tools within a single application.
 
